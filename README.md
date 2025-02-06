@@ -1,66 +1,64 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Como Turbinar o Laravel com Macros e Mixins em 13 Minutos!  
+Assista: https://youtu.be/sUSR3OszXrw
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Aprenda nessa aula como e quando usr Macros e Mixins no Laravel. Você vai ver como isso pode fazer toda a diferença no seu projeto.
 
-## About Laravel
+## 🔗 Links:
+- Repositório ndo projeto de xemplo o girhub: https://github.com/codebase-42/video-laravel-macros
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Por quê "Codebase 42"?
+📖 Leia: https://amzn.to/3OqFoPZ
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+💡 Deixe nos comentários o que você achou e quais temas gostaria de assistir nos próximos vídeos!
 
-## Learning Laravel
+🚀 Inscreva-se no canal Codebase 42 para mais conteúdos sobre PHP, Laravel e desenvolvimento de software em geral!
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+0:00 Abertura / Introdução
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+0:35 Usando helpers externos
 
-## Laravel Sponsors
+3:03 Apresentando solução usando Macros
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+6:41 Apresentando solução usando Mixing
 
-### Premium Partners
+9:16 Quando usar e não usar Macros e Mixings
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+10:18 Implementando classes que permitem uso de Macros e Mixings
 
-## Contributing
+12:57 Conclusão
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
+### Frases e títulos alternativos:
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Macros e mixins no Laravel paracem mágica!
 
-## Security Vulnerabilities
+A maioria das classes do Laravel nos permitem extender sua funcionalidade usando Macros e Mixins.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Hoje vamos ver como fazer o código de nossos projetos Laravel ficarem melhores com o uso de Macros e Mixins.
 
-## License
+Extendendo o Laravel com Macros e Mixins
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Como extender o Laravel com Macros e Mixins
+
+Macros a Mixins: aprenda a extender o Laravel em 13 minutos
+
+Macros e Mixins: como extender o Laravel em 13 minutos
+
+Como usar Macros e Mixins para extender o Laravel
+
+Aprenda a usar Macros e Mixins para extender o Laravel como mágica
+
+Aprenda em 13 minutos como a extender o Laravel com a mágica dos Macros e Mixins
+
+Como Turbinar seu Laravel com Macros e Mixins em 13 Minutos!
+
+Destravando o Laravel usando Macros e Mixings
+
+---
+
+#php #laravel #macro #mixin #programação #dev #code #codebase42
